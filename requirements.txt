@@ -116,13 +116,11 @@ chromadb>=1.0.0
 # Multimodal AI Support
 open-clip-torch>=2.23.0
 #lavis>=1.0.2
-libgl1-mesa-glx
-libglib2.0-0
-#libsm6
-#libxext6
-#libxrender1
-#libfontconfig1
+
 opencv-python-headless>=4.8.0
+libgl1
+libglib2.0-0
+
 
 
 
