@@ -96,14 +96,11 @@ redis>=5.0.4
 # --------- Utilities ----------
 tqdm>=4.66.0
 beautifulsoup4>=4.12.3
-python-multipart>=0.0.9
-aiofiles>=23.2.1
 loguru>=0.7.2
 
-# --------- Optional: Audio (if needed) ----------
+# --------- Audio Processing (Python 3.13 Compatible) ----------
 gtts>=2.5.4
 moviepy>=2.0.0
-streamlit-audiorecorder>=0.0.7
 
 # --------- Security and Auth ----------
 passlib[bcrypt]>=1.7.4
@@ -114,8 +111,9 @@ pytest>=8.2.0
 
 # --------- Other Useful ----------
 networkx>=3.3
-open-clip-torch>=3.1.0
 matplotlib>=3.8.4
+
+
 
 
 
