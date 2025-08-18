@@ -47,8 +47,10 @@ numpy>=1.25.0,<1.27.0
 moviepy>=2.0.0,<2.3.0
 huggingface-hub==0.25.2
 SpeechRecognition>=3.10.0
-pyaudio>=0.2.11
+#pyaudio>=0.2.11
 pydub>=0.25.1
+tokenizers>=0.13.2
+
 
 
 
