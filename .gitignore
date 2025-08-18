@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtual Environments
+.env
+.venv
+venv/
+ENV/
+env/
+
+# Build & Distribution
+build/
+dist/
+.eggs/
+*.egg-info/
+*.egg
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Cache & Temporary Files
+.cache/
+.mypy_cache/
+.pytest_cache/
+.coverage
+
+# Streamlit
+.streamlit/
+
+# Model files (optional - remove if you want to include them)
+*.bin
+*.safetensors
+models/
+
+# Data files (optional)
+data/processed/
+temp/

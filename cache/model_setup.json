@@ -1,0 +1,32 @@
+{
+  "sentence_transformers": {
+    "status": "completed",
+    "timestamp": 1755236083.1281536,
+    "model_id": "all-MiniLM-L6-v2"
+  },
+  "spacy_english": {
+    "status": "completed",
+    "timestamp": 1755236090.0626724,
+    "model_id": "en_core_web_sm"
+  },
+  "ollama_llama": {
+    "status": "failed",
+    "timestamp": 1755236422.650408,
+    "error": "Setup function returned False"
+  },
+  "blip_caption": {
+    "status": "failed",
+    "timestamp": 1755236422.650408,
+    "error": "Setup function returned False"
+  },
+  "clip_vision": {
+    "status": "failed",
+    "timestamp": 1755236422.650408,
+    "error": "Setup function returned False"
+  },
+  "coqui_tts": {
+    "status": "failed",
+    "timestamp": 1755236422.6570663,
+    "error": "Setup function returned False"
+  }
+}

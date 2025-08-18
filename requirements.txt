@@ -1,0 +1,44 @@
+# Core Dependencies
+streamlit>=1.48.0
+requests>=2.32.0
+python-dotenv>=1.0.0
+
+# PDF Processing
+pymupdf>=1.26.3
+PyPDF2>=3.0.0
+
+# AI/ML Libraries - COMPATIBLE VERSIONS
+torch==1.13.1
+torchvision==0.14.1
+torchaudio==0.13.1
+sentence-transformers==2.2.2
+transformers==4.21.3
+scikit-learn>=1.3.0
+numpy>=1.21.0,<1.25.0
+pandas>=2.0.0
+
+# Image Processing - Compatible versions
+Pillow>=9.5.0,<10.0.0
+opencv-python>=4.8.0
+
+# Visualization
+plotly>=5.17.0
+matplotlib>=3.7.0
+
+# Audio Processing
+gtts>=2.5.0
+moviepy>=2.0.0
+
+# NLP
+spacy>=3.7.0
+textstat>=0.7.0
+wikipedia>=1.4.0
+duckduckgo-search>=6.0.0
+
+# Audio Recording
+streamlit-audiorecorder>=0.0.6
+audio-recorder-streamlit>=0.0.8
+
+# Essential utilities
+tqdm>=4.65.0
+beautifulsoup4>=4.12.0
