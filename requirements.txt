@@ -84,7 +84,7 @@ pandas>=2.0.0
 
 # Image Processing
 Pillow>=9.5.0,<10.0.0
-opencv-python>=4.8.0
+#opencv-python>=4.8.0
 
 # Visualization
 plotly>=5.17.0
@@ -116,7 +116,13 @@ chromadb>=1.0.0
 # Multimodal AI Support
 open-clip-torch>=2.23.0
 #lavis>=1.0.2
-
+libgl1-mesa-glx
+libglib2.0-0
+libsm6
+libxext6
+libxrender1
+libfontconfig1
+opencv-python-headless>=4.8.0
 
 
 
