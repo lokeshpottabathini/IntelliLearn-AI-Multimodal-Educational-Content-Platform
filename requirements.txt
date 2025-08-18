@@ -14,7 +14,7 @@ torchaudio==0.13.1
 sentence-transformers==2.2.2
 transformers==4.21.3
 scikit-learn>=1.3.0
-numpy>=1.21.0,<1.25.0
+#numpy>=1.21.0,<1.25.0
 pandas>=2.0.0
 
 # Image Processing - Compatible versions
@@ -27,7 +27,7 @@ matplotlib>=3.7.0
 
 # Audio Processing
 gtts>=2.5.0
-moviepy>=2.0.0
+#moviepy>=2.0.0
 
 # NLP
 spacy>=3.7.0
@@ -42,6 +42,10 @@ audio-recorder-streamlit>=0.0.8
 # Essential utilities
 tqdm>=4.65.0
 beautifulsoup4>=4.12.0
+
+numpy>=1.25.0,<1.27.0
+moviepy>=2.0.0,<2.3.0
+
 
 
 
