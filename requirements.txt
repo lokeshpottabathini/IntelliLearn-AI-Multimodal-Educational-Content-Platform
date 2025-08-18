@@ -90,7 +90,7 @@ opencv-python>=4.8.0
 plotly>=5.17.0
 matplotlib>=3.7.0
 
-# Audio Processing
+# Audio Processing (NO PYAUDIO)
 gtts>=2.5.0
 moviepy>=2.0.0,<2.3.0
 
@@ -100,7 +100,7 @@ textstat>=0.7.0
 wikipedia>=1.4.0
 duckduckgo-search>=6.0.0
 
-# Audio Recording (no pyaudio)
+# Audio Recording (File-based only)
 streamlit-audiorecorder>=0.0.6
 audio-recorder-streamlit>=0.0.8
 SpeechRecognition>=3.10.0
@@ -116,6 +116,7 @@ chromadb>=1.0.0
 # Multimodal AI Support
 open-clip-torch>=2.23.0
 lavis>=1.0.2
+
 
 
 
