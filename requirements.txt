@@ -118,8 +118,8 @@ open-clip-torch>=2.23.0
 #lavis>=1.0.2
 
 opencv-python-headless>=4.8.0
-libgl1
-libglib2.0-0
+#libgl1
+#libglib2.0-0
 
 
 
