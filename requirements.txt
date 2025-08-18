@@ -54,6 +54,15 @@ transformers>=4.30.0
 tokenizers>=0.13.2,<0.22
 chromadb>=1.0.0
 duckduckgo-search>=6.0.0
+# OpenAI CLIP - often available as open_clip_torch
+open-clip-torch>=2.23.0
+#clip-by-openai>=1.0.0
+
+# Salesforce BLIP - for advanced multimodal features
+lavis>=1.0.2
+# or, for HuggingFace version:
+transformers>=4.30.0
+
 
 
 
